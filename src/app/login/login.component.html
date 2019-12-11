@@ -1,0 +1,12 @@
+<div>
+    <h2>Login</h2>
+    <div>
+      <label>Username
+        <input [(ngModel)]="loginData.email" type="email" placeholder="Email"/>
+      </label><br>
+      <label>Password:
+        <input [(ngModel)]="loginData.password" type="password" placeholder="Password"/>
+      </label><br>
+    </div>
+    <button (click)="login()">Login</button>
+  </div>
