@@ -1,0 +1,10 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "GuardianSans-Hairline";
+
+  src: url("./fonts/GuardianSans-Hairline.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/GuardianSans-Hairline.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/GuardianSans-Hairline.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
